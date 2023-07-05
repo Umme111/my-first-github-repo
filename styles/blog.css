@@ -18,9 +18,13 @@ ul{
 .con{
     background-color: chocolate;
     border-radius:5px ;
-    display: block;
+    display: inline-block;
     text-align: justify;
-    
+    width: 350px;
+    height: 200px;
+    margin: 20px;
+    padding: 10px;
+
 }
 #form{
     text-align: left;
@@ -30,4 +34,7 @@ ul{
     text-align: left;
     height: 100px;
     box-sizing: content-box;
+}
+.frst{
+    margin-top: 100px;
 }
