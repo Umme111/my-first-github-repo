@@ -2,6 +2,7 @@ h3{
     color: blueviolet;
     font-weight:bold ;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 .yellow{
     background-color: aquamarine;
@@ -13,4 +14,20 @@ h3{
 }
 ul{
     color: brown;
+}
+.con{
+    background-color: chocolate;
+    border-radius:5px ;
+    display: block;
+    text-align: justify;
+    
+}
+#form{
+    text-align: left;
+}
+#image{
+    margin-top: 50px;
+    text-align: left;
+    height: 100px;
+    box-sizing: content-box;
 }
