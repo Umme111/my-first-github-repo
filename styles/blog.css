@@ -1,0 +1,16 @@
+h3{
+    color: blueviolet;
+    font-weight:bold ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.yellow{
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 10px;
+}
+#first{
+    text-align: center;
+}
+ul{
+    color: brown;
+}
